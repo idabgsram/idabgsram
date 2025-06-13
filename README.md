@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo! 👋
 
 <!--
 **idabgsram/idabgsram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Guzram or you can call me Tugus. I love to type anything that i think on my colored keyboard.
+
+![](https://komarev.com/ghpvc/?username=idabgsram&label=Visitor)
